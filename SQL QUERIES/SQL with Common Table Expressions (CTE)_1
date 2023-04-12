@@ -1,4 +1,4 @@
-# Find the average amount paid by the top 5 customers with CTE:
+# To find the average amount paid by the top 5 customers with CTE:
 
 WITH average_amount_paid_cte (customer_id, first_name, last_name, country, city) AS
 	(SELECT B.customer_id,
