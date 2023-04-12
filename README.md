@@ -1,5 +1,5 @@
 # SQL_Rockbuster Stealh LLC
-CareerFoundry Program - SQL analysis code and presentation for a fictious movie rental company by using PostgresSQL and Tableau.
+CareerFoundry Program - SQL analysis code and presentation for a fictious movie rental company by using 
 
 # Introduction
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime.
@@ -18,3 +18,8 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 
 # Visulisation with Tableau
 [Click Here](https://public.tableau.com/views/RockbusterStealthLLCStory/RockbusterStealthStory?:language=en-GB&:display_count=n&:origin=viz_share_link) 
+
+# Tool
+* PostgresSQL
+* Tableau
+* PowerPoint
