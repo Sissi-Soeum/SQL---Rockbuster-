@@ -21,5 +21,6 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 
 # Tool
 * PostgresSQL
+* DBVisualizer
 * Tableau
 * PowerPoint
