@@ -19,7 +19,7 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 # Visulisation with Tableau
 [Click Here](https://public.tableau.com/views/RockbusterStealthLLCStory/RockbusterStealthStory?:language=en-GB&:display_count=n&:origin=viz_share_link) 
 
-# Tool
+# Tools
 * PostgresSQL
 * DBVisualizer
 * Tableau
