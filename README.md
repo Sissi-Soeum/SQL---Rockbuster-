@@ -20,7 +20,7 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 [Click Here](https://public.tableau.com/views/RockbusterStealthLLCStory/RockbusterStealthStory?:language=en-GB&:display_count=n&:origin=viz_share_link) 
 
 # Tools
-* PostgresSQL
+* PostgreSQL
 * DBVisualizer
 * Tableau
 * PowerPoint
